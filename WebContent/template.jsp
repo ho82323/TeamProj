@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h2>탬플릿 파일 입니다</h2>
 </body>
 </html>
